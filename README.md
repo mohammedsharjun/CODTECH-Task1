@@ -37,3 +37,5 @@ This is a basic command-line calculator program written in Python. It allows use
 5. Continue performing operations by entering numbers and selecting operations.
 6. Enter `=` to exit the loop and see the final result.
 
+![Screenshot 2024-08-29 204010](https://github.com/user-attachments/assets/fcfb691d-18b7-4be9-a5eb-c42b8ac20fdd)
+
