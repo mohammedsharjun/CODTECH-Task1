@@ -1,3 +1,16 @@
+Name : M Mohammed Sharjun
+
+Company: CODTECH IT SOLUTIONS
+
+Intern ID : CT12DS2194
+
+Domain : Python Programming
+
+Duration: August to october 2024
+
+Mentor :
+
+
 # Basic-Calculator By "sharjun"
  Basic Arithmetic Operations Using Python
 
